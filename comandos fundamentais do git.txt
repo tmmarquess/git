@@ -9,3 +9,8 @@ touch xxx.xx - cria um novo arquivo no repositório
 git log - mostra um log com os comentários dos commits que identificam as modificações
 git log --oneline - mostra uma identificação das versões do projeto
 git log --graph - mostra o grafo das atualizações do projeto
+git branch - identifica a branch atual
+git checkout (código hash da antiga commit obtida no log) - volta a uma commit antiga
+git checkout master - retorna à ultima commit feita
+git diff - mostra o que mudou em relação ao ultimo commit e ao novo item a ser adicionado no container
+git checkout (arquivo) - restaura o arquivo ao ponto que estava na ultima commit
