@@ -20,3 +20,5 @@ git checkout -b (nome) - cria um branch nova (uma ramificação)
 git checkout master - retorna à branch principal
 git log --oneline --graph --all - mostra o grafo com todas as branch's existentes
 git merge (nome da branch) - funde a branch selecionada com a que foi solicitada
+git remote add origin ~link~ - adiciona um local remoto para fazer upload do repositório
+git clone (link do repositório remoto) - clona o repositório e salva ele na pasta selecionada no git
