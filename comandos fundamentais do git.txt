@@ -1,0 +1,11 @@
+git init - iniciar um repositório local na pasta selecionada
+git add xxx.xx- adiciona arquivos ao container para enviá-lo ao git
+git add * - adiciona todos os arquivos do diretório no container
+git status - verifica o que há dentro do container
+git commit - verifica e armazena o container no repositório
+git commit -m "comment" - adicionar um comentário ao container/branch
+git commit -am "comment" - adiciona todos os arquivos do diretório no container e submete à branch
+touch xxx.xx - cria um novo arquivo no repositório
+git log - mostra um log com os comentários dos commits que identificam as modificações
+git log --oneline - mostra uma identificação das versões do projeto
+git log --graph - mostra o grafo das atualizações do projeto
