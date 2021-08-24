@@ -18,3 +18,5 @@ git reset HEAD - retira as modificações do container
 git reset --hard (hash do commit a se voltar) - deleta os commits até ao especificado
 git checkout -b (nome) - cria um branch nova (uma ramificação)
 git checkout master - retorna à branch principal
+git log --oneline --graph --all - mostra o grafo com todas as branch's existentes
+git merge (nome da branch) - funde a branch selecionada com a que foi solicitada
