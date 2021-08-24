@@ -14,3 +14,4 @@ git checkout (código hash da antiga commit obtida no log) - volta a uma commit 
 git checkout master - retorna à ultima commit feita
 git diff - mostra o que mudou em relação ao ultimo commit e ao novo item a ser adicionado no container
 git checkout (arquivo) - restaura o arquivo ao ponto que estava na ultima commit
+git reset HEAD - retira as modificações do container
