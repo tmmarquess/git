@@ -22,3 +22,4 @@ git log --oneline --graph --all - mostra o grafo com todas as branch's existente
 git merge (nome da branch) - funde a branch selecionada com a que foi solicitada
 git remote add origin ~link~ - adiciona um local remoto para fazer upload do repositório
 git clone (link do repositório remoto) - clona o repositório e salva ele na pasta selecionada no git
+git pull - sincroniza as alterações remotas com as locais
