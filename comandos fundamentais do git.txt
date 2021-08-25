@@ -25,3 +25,7 @@ git clone (link do repositório remoto) - clona o repositório e salva ele na pa
 git pull - sincroniza as alterações remotas com as locais
 git push - sincroniza os repositórios
 git fetch - download das alterações que existem no repositório remoto sem fundir os repositórios
+
+-----
+fork - clona um projeto diretamente dentro do github
+pull request - solicitar contribuir em um projeto com a autorização do dono
