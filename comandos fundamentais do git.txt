@@ -23,7 +23,7 @@ git merge (nome da branch) - funde a branch selecionada com a que foi solicitada
 git remote add origin ~link~ - adiciona um local remoto para fazer upload do repositório
 git clone (link do repositório remoto) - clona o repositório e salva ele na pasta selecionada no git
 git pull - sincroniza as alterações remotas com as locais
-git push - sincroniza os repositórios
+git push -u origin master - sincroniza os repositórios
 git fetch - download das alterações que existem no repositório remoto sem fundir os repositórios
 
 -----
